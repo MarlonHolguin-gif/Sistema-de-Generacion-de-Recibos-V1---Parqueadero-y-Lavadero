@@ -1,0 +1,6 @@
+model\ServicioTiempoFijo$1.class
+model\ServicioLavado$1.class
+model\ServicioFraccion$1.class
+model\ServicioHoras$1.class
+model\TipoVehiculo.class
+printer\PDFGenerator.class
